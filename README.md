@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Tanvir-Ramim/Tanvir-Ramim/main/asset/github-header-image%20(1).jpg)
-<!--
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Tanvir-Ramim/Tanvir-Ramim/main/asset/github-header-image%20(1).jpg "San Juan Mountains")
+
 **Tanvir-Ramim/Tanvir-Ramim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
