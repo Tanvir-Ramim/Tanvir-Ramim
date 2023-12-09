@@ -41,14 +41,15 @@
 
 ## 📈 Current GitHub Stats
 
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Tanvir-Ramim&theme=tokyonight" />
+</p
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanvir-Ramim&theme=tokyonight)](https://git.io/streak-stats)
 
 <br>
 <br>
 
-# 💻 Projects
+ # 💻 Projects
 
 ## **MediCamHub**
 
