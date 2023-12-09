@@ -114,10 +114,7 @@
     <code><img width="25" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
       <code><img width="25" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 </div>
-
-
 </div>
-
 <br>
 <br>
 
@@ -152,5 +149,15 @@
 </div>
 <br/>
 <br/>
+
+
+## 🌱 Currently Learning
+
+I'm currently expanding my knowledge and expertise in the following area:
+
+- **Next.js:** Exploring the world of server-side rendering and React framework.
+
+
+<span style="color: #555; font-family: 'Helvetica', sans-serif; font-size: 16px;">Feel free to explore my repositories and connect with me! 😊</span>
 
 
