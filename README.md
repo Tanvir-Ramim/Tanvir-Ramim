@@ -1,15 +1,9 @@
-<!-- ### Hi there 👋
-
-
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Tanvir-Ramim/Tanvir-Ramim/main/asset/github-header-image%20(1).jpg "San Juan Mountains")
-
-##  ✨ About Me -->
 
 
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/Tanvir-Ramim/Tanvir-Ramim/main/asset/github-header-image%20(1).jpg "San Juan Mountains")
 </br>
 
-<!-- # Hello, I'm Tanvir Hossan Ramim! 👋 -->
+
 
 
 ##  💫 About Me -->
@@ -27,7 +21,13 @@
 <br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramim-hossan-9364492a4/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramimhossan14@gmail.com)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004130149188)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramim-hossan-9364492a4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramimhossan14@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004130149188)
+
+</div>
 
 
 <br/>
