@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://ramimtr-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ramimtr--portfolio.vercel.app-5b8cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tanvir-hossan-ramim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ramimhossan14@gmail.com"><img src="https://img.shields.io/badge/Email-ramimhossan14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -43,6 +43,8 @@ const ramim = {
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 <table>
   <tr>
@@ -78,6 +80,7 @@ const ramim = {
 
 ## 💼 Experience
 
+<div align="center">
 <table>
   <tr>
     <td width="8%">
