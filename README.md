@@ -65,7 +65,7 @@ const ramim = {
   </tr>
 </table>
 </div>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=flat-square&logo=fastapi&logoColor=5b8cff" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JWT%20Auth-0f172a?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Passport.js-0f172a?style=flat-square&logo=passport&logoColor=34E27A" alt="Passport.js" />
