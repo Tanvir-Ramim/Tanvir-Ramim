@@ -64,7 +64,7 @@ const ramim = {
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Tools" /></td>
   </tr>
 </table>
-
+</div>
 <p>
   <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=flat-square&logo=fastapi&logoColor=5b8cff" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JWT%20Auth-0f172a?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
@@ -81,6 +81,7 @@ const ramim = {
 ## 💼 Experience
 
 <div align="center">
+
 <table>
   <tr>
     <td width="8%">
@@ -100,6 +101,8 @@ const ramim = {
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
